@@ -1,0 +1,36 @@
+[Info  - 7:26:15 PM] ESLint server stopped.
+[Info  - 7:26:15 PM] ESLint server running in node v10.2.0
+[Info  - 7:26:15 PM] ESLint server is running.
+[Info  - 7:26:21 PM] 
+Failed to load the ESLint library for the document /home/bogdan/Documents/MERN/app.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder MERN
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder MERN by executing the 'Disable ESLint' command.
+[Info  - 7:26:21 PM] 
+Failed to load the ESLint library for the document /home/bogdan/Documents/MERN/package.json
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder MERN
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder MERN by executing the 'Disable ESLint' command.
+[Info  - 8:23:04 PM] 
+Failed to load the ESLint library for the document /home/bogdan/Documents/MERN/routes/auth.routes.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder MERN
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder MERN by executing the 'Disable ESLint' command.
+[Info  - 8:34:25 PM] 
+Failed to load the ESLint library for the document /home/bogdan/Documents/MERN/models/User.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder MERN
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder MERN by executing the 'Disable ESLint' command.
+[Info  - 9:01:21 PM] ESLint server stopped.

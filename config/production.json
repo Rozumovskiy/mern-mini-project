@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "bohdan mern",
+    "mongoUri": "mongodb+srv://bohdan:02121996Bohdan@cluster0-9nwwe.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}

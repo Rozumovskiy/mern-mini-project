@@ -1,0 +1,59 @@
+[2020-01-16 19:13:36.011] [sharedprocess] [info] main {"machineId":"d9dc6795b13edcc43a427af5b36d1ec154e7ed3a59a3c60199dda6f4c5f2b2c8"}
+[2020-01-16 19:13:37.685] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:13:38.180] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /root/.vscode/extensions/esbenp.prettier-vscode-3.17.0
+[2020-01-16 19:13:38.660] [sharedprocess] [info] Scanned system extensions: 72
+[2020-01-16 19:13:39.126] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:13:39.127] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:13:39.180] [sharedprocess] [info] Scanned system extensions: 72
+[2020-01-16 19:13:39.184] [sharedprocess] [info] Scanned system extensions: 72
+[2020-01-16 19:13:39.221] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:13:39.245] [sharedprocess] [info] Scanned system extensions: 72
+[2020-01-16 19:13:41.164] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:13:41.172] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:13:43.275] [sharedprocess] [info] Installing extension: msjsdiag.vscode-react-native
+[2020-01-16 19:13:43.276] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2020-01-16 19:13:43.287] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:13:43.289] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:14:00.184] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:14:00.185] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:14:00.249] [sharedprocess] [info] Scanned system extensions: 72
+[2020-01-16 19:14:00.254] [sharedprocess] [info] Scanned system extensions: 72
+[2020-01-16 19:14:00.368] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:14:00.407] [sharedprocess] [info] Scanned system extensions: 72
+[2020-01-16 19:14:02.281] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:14:04.775] [sharedprocess] [info] Installing extension: msjsdiag.vscode-react-native
+[2020-01-16 19:14:04.776] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2020-01-16 19:14:07.020] [sharedprocess] [info] Downloaded extension: msjsdiag.vscode-react-native /tmp/c82f3bc5-4708-4642-b30c-cc56fce5f957
+[2020-01-16 19:14:08.182] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.msjsdiag.vscode-react-native-0.14.0: msjsdiag.vscode-react-native
+[2020-01-16 19:14:08.182] [sharedprocess] [info] Renamed to /root/.vscode/extensions/msjsdiag.vscode-react-native-0.14.0
+[2020-01-16 19:14:08.184] [sharedprocess] [info] Installation completed. msjsdiag.vscode-react-native
+[2020-01-16 19:14:08.305] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:14:08.326] [sharedprocess] [info] Scanned system extensions: 72
+[2020-01-16 19:14:08.366] [sharedprocess] [info] Extensions installed successfully: msjsdiag.vscode-react-native
+[2020-01-16 19:14:11.257] [sharedprocess] [info] Downloaded extension: wallabyjs.quokka-vscode /tmp/f638a983-4515-4237-afff-96f32a74d087
+[2020-01-16 19:14:12.987] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.wallabyjs.quokka-vscode-1.0.274: wallabyjs.quokka-vscode
+[2020-01-16 19:14:12.987] [sharedprocess] [info] Renamed to /root/.vscode/extensions/wallabyjs.quokka-vscode-1.0.274
+[2020-01-16 19:14:12.988] [sharedprocess] [info] Installation completed. wallabyjs.quokka-vscode
+[2020-01-16 19:14:13.155] [sharedprocess] [info] Extensions installed successfully: wallabyjs.quokka-vscode
+[2020-01-16 19:14:15.959] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-16 19:19:02.386] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:24:02.458] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:29:02.560] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:34:02.673] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:39:02.761] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:44:02.847] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:49:02.915] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:54:02.998] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 19:59:03.081] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:04:03.363] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:09:03.435] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:14:03.798] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:19:03.960] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:24:04.055] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:29:04.153] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:34:04.247] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:39:04.325] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:44:04.415] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:49:04.545] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:54:04.629] [sharedprocess] [info] Scanned user extensions: 10
+[2020-01-16 20:59:04.697] [sharedprocess] [info] Scanned user extensions: 10
